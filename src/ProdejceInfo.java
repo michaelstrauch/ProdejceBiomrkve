@@ -55,4 +55,5 @@ public class ProdejceInfo {
     public void setSenior(boolean senior) {
         isSenior = senior;
     }
+
 }
